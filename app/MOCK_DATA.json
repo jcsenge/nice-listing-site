@@ -1,0 +1,702 @@
+[
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5205.70",
+    "propertyId": "01HHYWS9X9F5CH33E4DR4M851W",
+    "userId": "01HHYWS9X95BKYKD634RVXRKPN",
+    "address": "69 Scofield Lane"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "512.20",
+    "propertyId": "01HHYWS9XA4Z2M37CP9C1Y3YG9",
+    "userId": "01HHYWS9XA2E3HBYSTETXAMNKT",
+    "address": "0554 Briar Crest Point"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "505.25",
+    "propertyId": "01HHYWS9XAXWJPHXSSVGNCRE0P",
+    "userId": "01HHYWS9XAZDN4NDABTWQWWEAB",
+    "address": "50407 Macpherson Park"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2846.42",
+    "propertyId": "01HHYWS9XBN59Z65Z7SXS8ZTS6",
+    "userId": "01HHYWS9XBJFWN5N6XA5QXP7XE",
+    "address": "1370 Hanson Hill"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3265.00",
+    "propertyId": "01HHYWS9XCHDAHQDF00V5M14D1",
+    "userId": "01HHYWS9XC7GQCE2G9YXYJT59G",
+    "address": "7 Quincy Park"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2391.91",
+    "propertyId": "01HHYWS9XCWVRFD05MAPD3WDDF",
+    "userId": "01HHYWS9XC1RPB021AVY0F9YSJ",
+    "address": "03264 Bonner Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7959.55",
+    "propertyId": "01HHYWS9XDBXQGA7P9CDHRKVS5",
+    "userId": "01HHYWS9XDEGT0SMTYR6GT051M",
+    "address": "5279 Homewood Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "145.44",
+    "propertyId": "01HHYWS9XENHW6YSAQ09248J0V",
+    "userId": "01HHYWS9XEQKC6B9HAAEE4EG54",
+    "address": "4429 Anderson Center"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1671.42",
+    "propertyId": "01HHYWS9XEQ5S0THT7DYXD8FKB",
+    "userId": "01HHYWS9XFXDP9K46H9WYEK0TV",
+    "address": "1 Waywood Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2284.74",
+    "propertyId": "01HHYWS9XFG9SA7MNQ3TTM82QZ",
+    "userId": "01HHYWS9XGGETRCF5BVPPD4K5R",
+    "address": "3 Oakridge Hill"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8843.22",
+    "propertyId": "01HHYWS9XGEHTH1711NVHJEJ52",
+    "userId": "01HHYWS9XG66QZA5A4WXDMA22K",
+    "address": "39103 Oneill Way"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4062.76",
+    "propertyId": "01HHYWS9XH9YP6BM7AY4APR38T",
+    "userId": "01HHYWS9XHXW1GGKE2KC2RVVHN",
+    "address": "9 Ridge Oak Road"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3687.58",
+    "propertyId": "01HHYWS9XJK571QBA93YF274M0",
+    "userId": "01HHYWS9XJPSPZCCE69ZEJKMPX",
+    "address": "75 Coolidge Junction"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8997.58",
+    "propertyId": "01HHYWS9XJRXK0GBEF9H9NFJBT",
+    "userId": "01HHYWS9XJJN6AAZW7C1FNNSY2",
+    "address": "78 Pierstorff Street"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "334.86",
+    "propertyId": "01HHYWS9XK93EWXWJ641CHCHVP",
+    "userId": "01HHYWS9XKFJ75RK717D61A8S9",
+    "address": "9236 Raven Way"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2272.35",
+    "propertyId": "01HHYWS9XM7C1Q4MWVTKBQCND6",
+    "userId": "01HHYWS9XMZ8QBPZ3VGYH8T4AP",
+    "address": "7657 Stoughton Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4851.73",
+    "propertyId": "01HHYWS9XMEZYVQ4SWD0VFP0C2",
+    "userId": "01HHYWS9XNWYMMJW35H7AAY8VK",
+    "address": "54 Forest Run Terrace"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8195.59",
+    "propertyId": "01HHYWS9XN8AE5DEKZQGHKGCX4",
+    "userId": "01HHYWS9XN9RHTQTMVYA4M9CE7",
+    "address": "11238 Buell Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5760.75",
+    "propertyId": "01HHYWS9XPC42D3HBWKGREZ9KR",
+    "userId": "01HHYWS9XP1170ZMBJAHW5D2D0",
+    "address": "9998 Continental Hill"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4720.68",
+    "propertyId": "01HHYWS9XQ4053PB4F2128H2MC",
+    "userId": "01HHYWS9XQW0QCGX7VDYT1F9WF",
+    "address": "1 Forster Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7631.54",
+    "propertyId": "01HHYWS9XQAP25RM5JVC5SBNH0",
+    "userId": "01HHYWS9XRV6EW7VDC81KV444Y",
+    "address": "667 Hoffman Parkway"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5076.41",
+    "propertyId": "01HHYWS9XRFEVK3PZHW1VMY0A1",
+    "userId": "01HHYWS9XR0XMJWKRB8KXR6G9N",
+    "address": "579 Golden Leaf Drive"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2681.89",
+    "propertyId": "01HHYWS9XSN8Z2RP9K53SRE6G1",
+    "userId": "01HHYWS9XSPY658K5TRP2X4YT6",
+    "address": "34652 Pond Lane"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6013.92",
+    "propertyId": "01HHYWS9XT4YFWX79YA9JRRJCH",
+    "userId": "01HHYWS9XT34MDCYPYZJ9EW1TW",
+    "address": "1361 Graedel Junction"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3502.00",
+    "propertyId": "01HHYWS9XT9R5RTFDQ2SNCABSK",
+    "userId": "01HHYWS9XT4B4EJRHH3075HNP0",
+    "address": "166 Quincy Trail"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4573.38",
+    "propertyId": "01HHYWS9XVH2YCAWX1AD90C5KZ",
+    "userId": "01HHYWS9XV47YBXJBR60G6TSMT",
+    "address": "0 Rockefeller Parkway"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4219.05",
+    "propertyId": "01HHYWS9XWZBXHXB31598YZ5G8",
+    "userId": "01HHYWS9XWECYJE5H5B6BKYFSX",
+    "address": "20666 International Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7359.56",
+    "propertyId": "01HHYWS9XXN6893XRN2KJFZ0DD",
+    "userId": "01HHYWS9XXRXJNVY3HQ8D8Y6TK",
+    "address": "9 Tennyson Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8614.32",
+    "propertyId": "01HHYWS9XX9HR8BH475CDVQK7V",
+    "userId": "01HHYWS9XYAHREBAPPTJE6VPHQ",
+    "address": "761 Kings Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4715.36",
+    "propertyId": "01HHYWS9XZM0QDKAFXYZW748SE",
+    "userId": "01HHYWS9Y00R860TXMYBAZM4NK",
+    "address": "87 Sutherland Park"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8560.83",
+    "propertyId": "01HHYWS9Y0SDXRJ5WHFN7H5KXQ",
+    "userId": "01HHYWS9Y0PSHHRXB5S393935K",
+    "address": "70 Pleasure Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4881.19",
+    "propertyId": "01HHYWS9Y1EHY66QS111PQQ6KC",
+    "userId": "01HHYWS9Y1NY9QM0CSFCJ1TPS1",
+    "address": "3286 Sundown Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3536.50",
+    "propertyId": "01HHYWS9Y2S4VR0A3RGEDXHA3B",
+    "userId": "01HHYWS9Y2DS7S392JE0N64WC2",
+    "address": "09 Badeau Trail"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8798.75",
+    "propertyId": "01HHYWS9Y2PPXDB9Z4HD6CQVK4",
+    "userId": "01HHYWS9Y3KRGACKECEMDCJYD7",
+    "address": "4310 1st Road"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9846.31",
+    "propertyId": "01HHYWS9Y3QDE95BC76Y1FHX9H",
+    "userId": "01HHYWS9Y3QYMFS6YGD9C16VMZ",
+    "address": "10 Sachtjen Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5406.99",
+    "propertyId": "01HHYWS9Y48GZJ8Q5WBRX07WD7",
+    "userId": "01HHYWS9Y4GE3PFAK0MPKWSNSD",
+    "address": "76981 Karstens Terrace"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2506.59",
+    "propertyId": "01HHYWS9Y553HJ9XWJTX4XA9YS",
+    "userId": "01HHYWS9Y5CZKR0X7DQ557RSA8",
+    "address": "294 Clove Road"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7450.04",
+    "propertyId": "01HHYWS9Y5JV00GDMZZE4MRYWR",
+    "userId": "01HHYWS9Y6BAMWZHV76PYHSRDW",
+    "address": "207 Bultman Street"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9245.77",
+    "propertyId": "01HHYWS9Y6KNKVK4R6M70GQPAQ",
+    "userId": "01HHYWS9Y6FMARHE12T2EJK32C",
+    "address": "5 Spaight Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9481.76",
+    "propertyId": "01HHYWS9Y7GNZEVA3987V82ARH",
+    "userId": "01HHYWS9Y7DDDZNJMXZP6RT3PT",
+    "address": "9 Pond Junction"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4532.78",
+    "propertyId": "01HHYWS9Y8N97F8KWR27BDSWE1",
+    "userId": "01HHYWS9Y8QY3T9MBYRG4275P7",
+    "address": "52266 Mitchell Plaza"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9302.01",
+    "propertyId": "01HHYWS9Y8RSKP44765YDX254X",
+    "userId": "01HHYWS9Y90QTS6BDX44GFPT2X",
+    "address": "70 Golf Course Center"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7658.78",
+    "propertyId": "01HHYWS9Y9GXPTRAV9Z31VZB4X",
+    "userId": "01HHYWS9Y95JBW8NYWAJPBZF3E",
+    "address": "1801 Melody Drive"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3515.57",
+    "propertyId": "01HHYWS9YAXVYTFM3FSK93D9ZG",
+    "userId": "01HHYWS9YAN9573CS1264T6315",
+    "address": "76 Oak Valley Plaza"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8279.72",
+    "propertyId": "01HHYWS9YBWE6KJ92VNZ8TQ1YD",
+    "userId": "01HHYWS9YBPQ0W7PZSWTE3D21H",
+    "address": "08854 Stoughton Street"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7727.86",
+    "propertyId": "01HHYWS9YBCSJRMWCRJQJ7VHSX",
+    "userId": "01HHYWS9YBD4XXCC1HP2B16V9M",
+    "address": "8 Karstens Drive"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9297.20",
+    "propertyId": "01HHYWS9YCB92DY5Q5EJ59YVE8",
+    "userId": "01HHYWS9YC6KGV97EV63971JZG",
+    "address": "4846 Swallow Point"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2356.30",
+    "propertyId": "01HHYWS9YD1XKJ8CTD3Y4E6KQF",
+    "userId": "01HHYWS9YDPJYMRW329M5VZ691",
+    "address": "83125 Twin Pines Road"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2395.83",
+    "propertyId": "01HHYWS9YEC7V37MQMBTB98WAT",
+    "userId": "01HHYWS9YE95NP50MR3C3A5383",
+    "address": "0680 4th Point"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5000.72",
+    "propertyId": "01HHYWS9YFSQYSKD7N5FH6WXBT",
+    "userId": "01HHYWS9YFGJY81XR45J7QZBT7",
+    "address": "606 Meadow Valley Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3116.63",
+    "propertyId": "01HHYWS9YF7AH6A9231M8FNDJV",
+    "userId": "01HHYWS9YGE9WKGW0JVDHBNFDB",
+    "address": "88 Gateway Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8826.14",
+    "propertyId": "01HHYWS9YG94WKJHK09V52AAXP",
+    "userId": "01HHYWS9YG15MXRVNTHN3QZD1J",
+    "address": "379 Vernon Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5881.13",
+    "propertyId": "01HHYWS9YH0CTZRDSV8N6TKVCK",
+    "userId": "01HHYWS9YH6JZXZ3G1JJ9JJS9Z",
+    "address": "83 Clyde Gallagher Pass"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4518.77",
+    "propertyId": "01HHYWS9YJRH8JP14S2JXPP6QB",
+    "userId": "01HHYWS9YJ8R2ZNPFHYWV9KYT9",
+    "address": "80983 Darwin Trail"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8329.01",
+    "propertyId": "01HHYWS9YJJ8F39TFY7V3XE582",
+    "userId": "01HHYWS9YKKPQJ99X8DGT5SXK8",
+    "address": "09 Schlimgen Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6428.82",
+    "propertyId": "01HHYWS9YKF5PPG30ZT2MCWHHV",
+    "userId": "01HHYWS9YKS8TXPQT0XYW674FH",
+    "address": "931 Bultman Park"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6037.10",
+    "propertyId": "01HHYWS9YMKHSXQD4WASPM9J1A",
+    "userId": "01HHYWS9YMMVY6P1QYRCZ4P0XA",
+    "address": "4328 Independence Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2500.84",
+    "propertyId": "01HHYWS9YNTWQDRDJ490921C3X",
+    "userId": "01HHYWS9YN2R0YCK78AEKF1F93",
+    "address": "8 Lotheville Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5360.01",
+    "propertyId": "01HHYWS9YNZ8H0M0YHRK6QXQ7V",
+    "userId": "01HHYWS9YPK7VTVB49W6XMBZRG",
+    "address": "60259 West Alley"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7854.57",
+    "propertyId": "01HHYWS9YPJ9ACSEDTKD0T6RKJ",
+    "userId": "01HHYWS9YPK094G2Y72VHF2148",
+    "address": "113 Namekagon Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3278.38",
+    "propertyId": "01HHYWS9YQB4V2YQNRTD94REJS",
+    "userId": "01HHYWS9YQN7H0T1JT0VQM4JQA",
+    "address": "117 Mockingbird Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8709.89",
+    "propertyId": "01HHYWS9YRW6YKFR4KVT9BBKKC",
+    "userId": "01HHYWS9YRN8CR3DE7G0DQCDXT",
+    "address": "3610 Duke Parkway"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1507.62",
+    "propertyId": "01HHYWS9YR66Y5TKM8209EAN3W",
+    "userId": "01HHYWS9YSSFQHZPJDJN11QAN0",
+    "address": "74240 Oxford Center"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "518.38",
+    "propertyId": "01HHYWS9YTDP9NPXW38V4DTXGG",
+    "userId": "01HHYWS9YTPGGH6XQ5P1PCWC1R",
+    "address": "6884 Carpenter Hill"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8291.58",
+    "propertyId": "01HHYWS9YT7ECZBZEWA4VGBAA9",
+    "userId": "01HHYWS9YVHWC9B3NS7JMPAT4Z",
+    "address": "2774 Ramsey Plaza"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "795.70",
+    "propertyId": "01HHYWS9YVP23N1SFTRH932H78",
+    "userId": "01HHYWS9YV7B4Y0156MV5XQFKJ",
+    "address": "1 2nd Junction"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "947.18",
+    "propertyId": "01HHYWS9YWWZ4GWZF484N3066E",
+    "userId": "01HHYWS9YWK1WTJBQE1JAKQT6A",
+    "address": "236 Riverside Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6127.11",
+    "propertyId": "01HHYWS9YXZ1F869N8KTH4AHA8",
+    "userId": "01HHYWS9YX8MVQWRQCCST4QKG3",
+    "address": "432 Harper Drive"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "9876.09",
+    "propertyId": "01HHYWS9YX76YTCESE4G0MT3F2",
+    "userId": "01HHYWS9YYBX4GTKQZTX1CZEEC",
+    "address": "20 Sullivan Street"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5674.58",
+    "propertyId": "01HHYWS9YYGB4CGVXJ3SQXY2RX",
+    "userId": "01HHYWS9YYCBXSWP7TS68JF9H5",
+    "address": "36 Eastlawn Trail"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5068.45",
+    "propertyId": "01HHYWS9YZ1R9DY84BNSC1J2Q6",
+    "userId": "01HHYWS9YZPYXEQRKW75QV5WVB",
+    "address": "13149 Havey Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2780.24",
+    "propertyId": "01HHYWS9Z0BZXC0AJFBQ0MFH14",
+    "userId": "01HHYWS9Z03VNPWMFDQ7B9NNXY",
+    "address": "60 Cambridge Pass"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "3451.55",
+    "propertyId": "01HHYWS9Z1E58MKSAKYVFHPZQG",
+    "userId": "01HHYWS9Z1MAKBSP7GK8ERG4CF",
+    "address": "080 Magdeline Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "900.81",
+    "propertyId": "01HHYWS9Z1X15Z189HE8QJE6M6",
+    "userId": "01HHYWS9Z2FN86AD5CPHNXBZ5D",
+    "address": "5 Lerdahl Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "489.92",
+    "propertyId": "01HHYWS9Z2WFR30CJ5HX1FJ8VD",
+    "userId": "01HHYWS9Z2ZYT6FH2MZXNPA1MQ",
+    "address": "25 Colorado Trail"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5263.09",
+    "propertyId": "01HHYWS9Z3GY9NTV3KSA7A5N6H",
+    "userId": "01HHYWS9Z3B4A2HN3P3DSVZ97R",
+    "address": "269 Moose Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5542.95",
+    "propertyId": "01HHYWS9Z4KASCV424HYMTAXSY",
+    "userId": "01HHYWS9Z4A8DXKH2GEZQ2BYY8",
+    "address": "2597 Paget Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6265.69",
+    "propertyId": "01HHYWS9Z48XCCDDQE59ZMDXZZ",
+    "userId": "01HHYWS9Z43MSERGB0VP7CFPTQ",
+    "address": "308 Amoth Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2652.41",
+    "propertyId": "01HHYWS9Z5QQK9WG8KJYKBY1H3",
+    "userId": "01HHYWS9Z5YP16BZP86EKBH66N",
+    "address": "3 Arapahoe Drive"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8548.40",
+    "propertyId": "01HHYWS9Z60GJE6HF6E4HF11BY",
+    "userId": "01HHYWS9Z6421T2ZWPC2VARWYJ",
+    "address": "56724 Memorial Center"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6764.64",
+    "propertyId": "01HHYWS9Z61H1S5ERY26GYYQB8",
+    "userId": "01HHYWS9Z7QS8RVPCXK186FAH2",
+    "address": "1 Morrow Way"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5232.05",
+    "propertyId": "01HHYWS9Z7BGVRE7BRNJG0ZA9R",
+    "userId": "01HHYWS9Z7CZ2Y1HX2KK8TNVEH",
+    "address": "5 Sunfield Road"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6824.89",
+    "propertyId": "01HHYWS9Z8H6EH293SPBWXBA0E",
+    "userId": "01HHYWS9Z8JCY0KE0DWYS0N0GY",
+    "address": "86053 Westport Pass"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "8232.73",
+    "propertyId": "01HHYWS9Z9VM4VQAPBYE37TFWB",
+    "userId": "01HHYWS9Z96CVZYMDV6NA5BKE5",
+    "address": "160 Fieldstone Lane"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6765.50",
+    "propertyId": "01HHYWS9Z9H76K7MH4RNMAQNQ6",
+    "userId": "01HHYWS9ZAWFQAYEY64WMFH1CM",
+    "address": "85 Nancy Terrace"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "797.31",
+    "propertyId": "01HHYWS9ZA0ZZ8S6M6ANSF4PG5",
+    "userId": "01HHYWS9ZAPWTMBG6BNT5S6AKS",
+    "address": "99263 Holmberg Parkway"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7007.05",
+    "propertyId": "01HHYWS9ZBD6Q10BRKWRD5HNDP",
+    "userId": "01HHYWS9ZBS54X1VV5DVF5967M",
+    "address": "668 4th Way"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6536.02",
+    "propertyId": "01HHYWS9ZCQP3WESB0DKYYQV6P",
+    "userId": "01HHYWS9ZCQVQ2RKBG497S8TE4",
+    "address": "217 Leroy Park"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "7042.06",
+    "propertyId": "01HHYWS9ZCM29EH5B55MFZCBV5",
+    "userId": "01HHYWS9ZD2BZXGHRWE9VSKTJD",
+    "address": "4351 Washington Lane"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1597.60",
+    "propertyId": "01HHYWS9ZDGA091309Q166A7Y3",
+    "userId": "01HHYWS9ZDZ3S48XSE57Y1CBSP",
+    "address": "6408 Continental Parkway"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "5209.07",
+    "propertyId": "01HHYWS9ZERWJJJYK9MD9J4WS9",
+    "userId": "01HHYWS9ZE1GJP84D3S7C6R5Y7",
+    "address": "587 Oakridge Avenue"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1506.86",
+    "propertyId": "01HHYWS9ZFS79J6EJ5NBFAFS5P",
+    "userId": "01HHYWS9ZFDZFG1NTCT7ZBZSAZ",
+    "address": "98 Sherman Street"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2938.69",
+    "propertyId": "01HHYWS9ZF9HJ446DTYTJQTP8A",
+    "userId": "01HHYWS9ZGN3YMV7TF2J8CY08T",
+    "address": "7 Thompson Crossing"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1694.44",
+    "propertyId": "01HHYWS9ZGYBZ68SG3KA7G24NN",
+    "userId": "01HHYWS9ZGXGWJ0F8GCHBZHMGM",
+    "address": "6 Talisman Circle"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "111.34",
+    "propertyId": "01HHYWS9ZHN825Z02VFTM0Y9EY",
+    "userId": "01HHYWS9ZHMS7CZKB7ENKDXFSR",
+    "address": "20566 Sherman Place"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1328.74",
+    "propertyId": "01HHYWS9ZJ307XMEDSSAWGCT46",
+    "userId": "01HHYWS9ZJ5TYSARHB29MNHD75",
+    "address": "8132 Buell Way"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "6774.73",
+    "propertyId": "01HHYWS9ZJDVAZ0G603DZAFB7A",
+    "userId": "01HHYWS9ZKQTAEDCBZB6VE4N9M",
+    "address": "26 Dayton Terrace"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "1943.71",
+    "propertyId": "01HHYWS9ZKQKAG7VQP236DKWAQ",
+    "userId": "01HHYWS9ZKVK6T1VFW1HD7G30B",
+    "address": "45 Farmco Alley"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "2910.54",
+    "propertyId": "01HHYWS9ZME86BWA5SV0DNMRKF",
+    "userId": "01HHYWS9ZMSXS198PFY2DTN7BM",
+    "address": "39 Armistice Court"
+  },
+  {
+    "portalId": "nice-listing-site",
+    "rent": "4622.58",
+    "propertyId": "01HHYWS9ZN6DTH5BQMQASRM0KS",
+    "userId": "01HHYWS9ZNSWCWXW69T62HA0J5",
+    "address": "46 Forest Run Street"
+  }
+]
