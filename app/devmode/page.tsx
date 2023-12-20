@@ -7,8 +7,9 @@ import { HusmusButton } from "../HusmusButton";
 type Props = {};
 
 export default function DevMode({}: Props) {
+  const [domain, setDomain] = useState<string>("https://husmus.uk");
   const [userName, setUserName] = useState<string>("test");
-  const [rent, setRent] = useState<string>("test");
+  const [rent, setRent] = useState<string>("1234");
   const [address, setAddress] = useState<string>("test");
   const [propertyId, setPropertyId] = useState<string>("test");
   return (
@@ -19,12 +20,14 @@ export default function DevMode({}: Props) {
           button with custom data. Please provde all the fields below, there is
           no validation yet.
         </div>
+        <Input name="Domain" value={domain} setValue={setDomain} />
         <Input name="Username" value={userName} setValue={setUserName} />
         <Input name="Rent" value={rent} setValue={setRent} />
         <Input name="Address" value={address} setValue={setAddress} />
         <Input name="PropertyId" value={propertyId} setValue={setPropertyId} />
         <div className="my-8 mx-auto">
           <HusmusButton
+            customDomain={domain}
             property={{
               rent,
               propertyId,
