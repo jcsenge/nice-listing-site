@@ -1,7 +1,7 @@
 import React from "react";
 import type { FC } from "react";
 import { HusmusButton } from "./HusmusButton";
-import type { Property } from "./properties";
+import { Property } from "./lib/definitions";
 
 type Props = {
   property: Property;

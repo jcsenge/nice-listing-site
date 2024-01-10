@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import type { FC } from "react";
-import { Property } from "./properties";
+import { Property } from "./lib/definitions";
 
 export const HusmusButton: FC<{
   customDomain?: string;
@@ -15,7 +15,7 @@ export const HusmusButton: FC<{
       prefetch={false}
       href={`${customDomain ?? "https://husmus.uk"}/fast-track?rent=${
         property.rent
-      }&propertyId=${property.propertyId}&userId=${property.userId}&portalId=${
+      }&propertyId=${property.id}&userId=${property.userId}&portalId=${
         property.portalId
       }&address=${property.address}`}
     >

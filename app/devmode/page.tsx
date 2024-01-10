@@ -9,7 +9,7 @@ type Props = {};
 export default function DevMode({}: Props) {
   const [domain, setDomain] = useState<string>("https://husmus.uk");
   const [userName, setUserName] = useState<string>("test");
-  const [rent, setRent] = useState<string>("1234");
+  const [rent, setRent] = useState<number>(1234);
   const [address, setAddress] = useState<string>("test");
   const [propertyId, setPropertyId] = useState<string>("test");
   return (
@@ -30,7 +30,7 @@ export default function DevMode({}: Props) {
             customDomain={domain}
             property={{
               rent,
-              propertyId,
+              id: propertyId,
               userId: userName,
               address,
               portalId: "nice-listing-site",

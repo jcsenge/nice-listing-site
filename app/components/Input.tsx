@@ -1,11 +1,19 @@
 import React from "react";
 import type { FC } from "react";
 
-type Props = {
-  name: string;
+type NumberInput = {
+  value: number;
+  setValue: (value: number) => void;
+};
+
+type StringInput = {
   value: string;
   setValue: (value: string) => void;
 };
+
+type Props = {
+  name: string;
+} & (NumberInput | StringInput);
 
 export const Input: FC<Props> = ({ name, setValue, value }) => {
   return (
