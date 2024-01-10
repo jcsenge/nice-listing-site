@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Input } from "../components/Input";
+import { Input, NumberInput } from "../components/Input";
 import { HusmusButton } from "../HusmusButton";
 
 type Props = {};
@@ -22,7 +22,7 @@ export default function DevMode({}: Props) {
         </div>
         <Input name="Domain" value={domain} setValue={setDomain} />
         <Input name="Username" value={userName} setValue={setUserName} />
-        <Input name="Rent" value={rent} setValue={setRent} />
+        <NumberInput name="Rent" value={rent} setValue={setRent} />
         <Input name="Address" value={address} setValue={setAddress} />
         <Input name="PropertyId" value={propertyId} setValue={setPropertyId} />
         <div className="my-8 mx-auto">

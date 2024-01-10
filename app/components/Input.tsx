@@ -13,9 +13,9 @@ type StringInput = {
 
 type Props = {
   name: string;
-} & (NumberInput | StringInput);
+};
 
-export const Input: FC<Props> = ({ name, setValue, value }) => {
+export const Input: FC<Props & StringInput> = ({ name, setValue, value }) => {
   return (
     <div className="flex flex-col">
       <div className="text-yellow-100">{name}</div>
@@ -23,6 +23,23 @@ export const Input: FC<Props> = ({ name, setValue, value }) => {
         className="text-blue-950 px-3 py-3 rounded-md bg-yellow-100 bg-opacity-80"
         value={value}
         onChange={(event) => setValue(event.target.value)}
+      />
+    </div>
+  );
+};
+
+export const NumberInput: FC<Props & NumberInput> = ({
+  name,
+  setValue,
+  value,
+}) => {
+  return (
+    <div className="flex flex-col">
+      <div className="text-yellow-100">{name}</div>
+      <input
+        className="text-blue-950 px-3 py-3 rounded-md bg-yellow-100 bg-opacity-80"
+        value={value}
+        onChange={(event) => setValue(Number(event.target.value))}
       />
     </div>
   );
