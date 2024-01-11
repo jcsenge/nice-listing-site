@@ -7,7 +7,7 @@ export async function fetchProperties() {
     const data = await sql<Property>`SELECT * FROM properties`;
     const properties = data.rows.map((property) => ({
       ...property,
-      userId: randomBytes(50).toString(),
+      userId: Math.floor(Math.random() * 99999999).toString(),
       portalId: "nice-listing-site",
     }));
     return properties;
