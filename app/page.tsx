@@ -3,20 +3,13 @@ import { SimpleMode } from "./SimpleMode";
 import { fetchProperties } from "./lib/data";
 
 type Props = {
-  params: {
-    stars: string;
-    maxLimit: string;
-    userId: string;
-    propertyId: string;
-  };
+  searchParams: Record<string, string>;
 };
 
-export default async function Home({
-  params: { maxLimit, propertyId, stars, userId },
-}: Props) {
-  if (propertyId) {
+export default async function Home({ searchParams }: Props) {
+  if (searchParams.propertyId) {
     redirect(
-      `/${propertyId}?stars=${stars}&maxLimit=${maxLimit}&userId=${userId}`
+      `/${searchParams.propertyId}?stars=${searchParams.stars}&maxLimit=${searchParams.maxLimit}&userId=${searchParams.userId}`
     );
   }
   const properties = await fetchProperties();
